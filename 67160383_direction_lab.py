@@ -22,7 +22,6 @@ class Stack:
         return len(self.items)  
 
 
-# -------- โปรแกรมสำหรับทดสอบ --------
 s = Stack()
 print("Is empty?", s.is_empty())
 
